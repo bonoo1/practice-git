@@ -34,6 +34,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,6 +47,7 @@
       <workItem from="1644342071906" duration="1175000" />
       <workItem from="1644343330578" duration="316000" />
       <workItem from="1644526281070" duration="3090000" />
+      <workItem from="1644530590686" duration="409000" />
     </task>
     <servers />
   </component>
