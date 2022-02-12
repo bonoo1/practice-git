@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="033f0883-855e-4af8-bc47-47c14e683862" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../sparta_java/src/main/java/Main.java" afterDir="false" />
+    <list default="true" id="033f0883-855e-4af8-bc47-47c14e683862" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leopards.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/leopards.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tigers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tigers.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +29,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -50,7 +46,9 @@
       <workItem from="1644343330578" duration="316000" />
       <workItem from="1644526281070" duration="3090000" />
       <workItem from="1644530590686" duration="409000" />
-      <workItem from="1644627091591" duration="1105000" />
+      <workItem from="1644627091591" duration="4298000" />
+      <workItem from="1644634250345" duration="998000" />
+      <workItem from="1644635819655" duration="27000" />
     </task>
     <servers />
   </component>
