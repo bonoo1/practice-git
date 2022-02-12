@@ -6,6 +6,8 @@
       <change afterPath="$PROJECT_DIR$/../b.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../c.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sparta_java/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tigers.yml" beforeDir="false" afterPath="$PROJECT_DIR$/tigers.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -48,6 +50,7 @@
       <workItem from="1644343330578" duration="316000" />
       <workItem from="1644526281070" duration="3090000" />
       <workItem from="1644530590686" duration="409000" />
+      <workItem from="1644627091591" duration="1105000" />
     </task>
     <servers />
   </component>
